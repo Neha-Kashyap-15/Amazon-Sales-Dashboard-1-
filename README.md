@@ -16,5 +16,28 @@ Built using Excel tools like slicers, pivot charts, KPI cards, treemaps, donut c
 
 ![Amazon sales dashboard 2025-26 Screenshot](https://github.com/user-attachments/assets/6cefecf8-961d-42af-93d7-438e96026867)
 
+## Key Insights
+
+• Electronics category generated the highest total sales, indicating strong customer demand in tech-related products.
+
+• Decor category showed the highest profit margin, suggesting it’s ideal for premium product promotion.
+
+• Fashion category had high sales volume but low profit, highlighting a need to revisit pricing or discount strategy.
+
+• Maharashtra and Karnataka led in statewise sales, revealing key markets for targeted marketing.
+
+• A few products contributed to the majority of sales revenue, ideal for bundling or ad campaigns.
+
+• Mid-year sales dip identified — a potential period for promotional pushes to boost performance.
+
+• Interactive filters helped compare performance across different product categories instantly.
+
+## Conclusion
+
+By simplifying complex datasets into clear visuals, this dashboard enables quick identification of trends, problem areas, and growth opportunities — essential for performance tracking and strategic planning.
+
+
+
+
 
 
