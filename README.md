@@ -12,5 +12,6 @@ An interactive Excel dashboard that transforms Amazon's 2025–26 sales data int
 <br>
 Built using Excel tools like slicers, pivot charts, KPI cards, treemaps, donut charts, and map visuals, the dashboard offers a clean and user-friendly layout. Every element is interactive, allowing users to filter and explore the data in real time.
 <br>
+
 ## Dashboard Preview
 - <a href="https://github.com/Neha-Kashyap-15/Amazon-Sales-Dashboard-1-/blob/e82285da6f90615dbb909d3d4aced11082e5c2f7/Amazon%20sales%20dashboard%202025-26%20Screenshot.png">screenshot</a>
