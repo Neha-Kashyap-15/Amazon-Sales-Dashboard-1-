@@ -13,3 +13,8 @@ Built using Excel tools like slicers, pivot charts, KPI cards, treemaps, donut c
 
 ## Dashboard Preview
 - <a href="https://github.com/Neha-Kashyap-15/Amazon-Sales-Dashboard-1-/blob/e82285da6f90615dbb909d3d4aced11082e5c2f7/Amazon%20sales%20dashboard%202025-26%20Screenshot.png">screenshot</a>
+
+![Amazon sales dashboard 2025-26 Screenshot](https://github.com/user-attachments/assets/6cefecf8-961d-42af-93d7-438e96026867)
+
+
+
