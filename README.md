@@ -1,4 +1,5 @@
 # Amazon Sales Dashboard (2025-26)
+## Project Objective
 An interactive Excel dashboard that transforms Amazon's 2025–26 sales data into meaningful insights. Features real-time KPIs, category slicers, dynamic charts, and a statewise sales map — designed for business intelligence and performance tracking.
 <br>
 ## Dataset used
