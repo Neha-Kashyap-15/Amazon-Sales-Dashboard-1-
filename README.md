@@ -68,6 +68,14 @@ Built using Excel tools like slicers, pivot charts, KPI cards, treemaps, donut c
 * Category Focus: Scale Fashion, enhance Electronics & Decor.
 * Customer Insights: Use feedback for service improvement.
 
+## Result-
+
+Smarter planning = Higher sales + Better decisions 
+
+## Connect with me 
+
+- LinkedIn : [ Neha Kashyap] (https://github.com/Neha-Kashyap-15)
+
 
 
 
