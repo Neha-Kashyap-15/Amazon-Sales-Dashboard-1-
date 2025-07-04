@@ -18,23 +18,53 @@ Built using Excel tools like slicers, pivot charts, KPI cards, treemaps, donut c
 
 ## Key Insights
 
-• Electronics category generated the highest total sales, indicating strong customer demand in tech-related products.
+## 1.Overall Finacial Summary-
 
-• Decor category showed the highest profit margin, suggesting it’s ideal for premium product promotion.
+* Total Sales: ₹5.3 Cr
+* Total Purchase: ₹3.3 Cr
+* Profit Earned: ₹1.95 Cr (≈37%)
 
-• Fashion category had high sales volume but low profit, highlighting a need to revisit pricing or discount strategy.
+☆ Profit margin: Approximately 36.7%
+( Profit÷ Sales ×100)
 
-• Maharashtra and Karnataka led in statewise sales, revealing key markets for targeted marketing.
+## 2.Sales Trends:
 
-• A few products contributed to the majority of sales revenue, ideal for bundling or ad campaigns.
+* Highest Sales: December
+* Lowest Sales: February
 
-• Mid-year sales dip identified — a potential period for promotional pushes to boost performance.
+☆ Sales peak during festive months.
 
-• Interactive filters helped compare performance across different product categories instantly.
+## 3. Top Products:
 
-## Conclusion
+#1 Saree | #2 Suit | #3 Laptop
 
-By simplifying complex datasets into clear visuals, this dashboard enables quick identification of trends, problem areas, and growth opportunities — essential for performance tracking and strategic planning.
+☆ Fashion is the most profitable category.
+
+## 4. Statewise Sales:
+
+* Best-performing: Maharashtra (Highest), Rajasthan, Gujarat
+☆ Lowest sales in North-Eastern states.
+
+## 5.Lower Contribution from:
+
+* North-Eastern states and Jammu & Kashmir show minimal sales, indicating a potential for growth or outreach.
+* Sales are concentrated in western and southern states — highlighting regional demand differences.
+
+## 6.Profit & Purchase Distribution (Donut Charts):
+
+* Sales Contribution by Category:
+
+☆ 75% from major products (likely Fashion).
+☆ Electronics and Decor contribute lesser shares.
+
+## Conclusion-
+
+* Regional Targeting: Activate marketing in low-performing zones
+* Product Promotion: Leverage top-selling SKUs (Saree, Suit, Laptop)
+* Seasonal Optimization: Align campaigns with peak sales months.
+* Inventory Management: Forecast demand, reduce overstock.
+* Category Focus: Scale Fashion, enhance Electronics & Decor.
+* Customer Insights: Use feedback for service improvement.
 
 
 
