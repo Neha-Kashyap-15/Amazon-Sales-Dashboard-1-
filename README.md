@@ -48,6 +48,7 @@ Built using Excel tools like slicers, pivot charts, KPI cards, treemaps, donut c
 ## 5.Lower Contribution from:
 
 * North-Eastern states and Jammu & Kashmir show minimal sales, indicating a potential for growth or outreach.
+
 * Sales are concentrated in western and southern states — highlighting regional demand differences.
 
 ## 6.Profit & Purchase Distribution (Donut Charts):
@@ -55,6 +56,7 @@ Built using Excel tools like slicers, pivot charts, KPI cards, treemaps, donut c
 * Sales Contribution by Category:
 
 ☆ 75% from major products (likely Fashion).
+
 ☆ Electronics and Decor contribute lesser shares.
 
 ## Conclusion-
