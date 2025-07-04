@@ -74,7 +74,9 @@ Smarter planning = Higher sales + Better decisions
 
 ## Connect with me 
 
-- LinkedIn : [ Neha Kashyap] (https://github.com/Neha-Kashyap-15)
+- LinkedIn : [ Neha Kashyap]  (www.linkedin.com/in/neha-kashyap-15s2000)
+
+
 
 
 
