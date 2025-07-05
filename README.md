@@ -60,12 +60,12 @@ An interactive Excel dashboard that transforms Amazon's 2025–26 sales data int
 
 ## Conclusion-
 
-> -  **Regional Targeting: Activate marketing in low-performing zones.*
-> -  **Product Promotion: Leverage top-selling SKUs (Saree, Suit, Laptop).*
-> -  **Seasonal Optimization: Align campaigns with peak sales months.*
-> -  **Inventory Management: Forecast demand, reduce overstock.*
-> -  **Category Focus: Scale Fashion, enhance Electronics & Decor.*
-> -  **Customer Insights: Use feedback for service improvement.*
+> -  *Regional Targeting: Activate marketing in low-performing zones.*
+> -  *Product Promotion: Leverage top-selling SKUs (Saree, Suit, Laptop).*
+> -  *Seasonal Optimization: Align campaigns with peak sales months.*
+> -  *Inventory Management: Forecast demand, reduce overstock.*
+> -  *Category Focus: Scale Fashion, enhance Electronics & Decor.*
+> -  *Customer Insights: Use feedback for service improvement.*
 
 ## Result-
 
