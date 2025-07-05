@@ -8,7 +8,6 @@ An interactive Excel dashboard that transforms Amazon's 2025–26 sales data int
 ## Description
 
 > -  *This interactive Excel dashboard is designed to analyze Amazon’s 2025–26 sales performance across categories, products, and states. It turns raw e-commerce data into clear, visual insights that support smarter and faster business decisions.*
-
 > -  *Built using Excel tools like slicers, pivot charts, KPI cards, treemaps, donut charts, and map visuals, the dashboard offers a clean and user-friendly layout. Every element is interactive, allowing users to filter and explore the data in real time.*
 
 ## Dashboard Preview
@@ -61,12 +60,12 @@ An interactive Excel dashboard that transforms Amazon's 2025–26 sales data int
 
 ## Conclusion-
 
-* Regional Targeting: Activate marketing in low-performing zones
-* Product Promotion: Leverage top-selling SKUs (Saree, Suit, Laptop)
-* Seasonal Optimization: Align campaigns with peak sales months.
-* Inventory Management: Forecast demand, reduce overstock.
-* Category Focus: Scale Fashion, enhance Electronics & Decor.
-* Customer Insights: Use feedback for service improvement.
+> -  **Regional Targeting: Activate marketing in low-performing zones.*
+> -  **Product Promotion: Leverage top-selling SKUs (Saree, Suit, Laptop).*
+> -  **Seasonal Optimization: Align campaigns with peak sales months.*
+> -  **Inventory Management: Forecast demand, reduce overstock.*
+> -  **Category Focus: Scale Fashion, enhance Electronics & Decor.*
+> -  **Customer Insights: Use feedback for service improvement.*
 
 ## Result-
 
